@@ -8,17 +8,17 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "Research"
-    url: /research/
+ # - title: "Research"
+ #   url: /research/
 
-  - title: "Talks"
-    url: /talks/    
+ # - title: "Talks"
+ #   url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+ # - title: "Teaching"
+ #   url: /teaching/    
 
-  - title: "Misc"
-    url: /misc/ 
+ # - title: "Misc"
+  #  url: /misc/ 
     
  # - title: "Portfolio"
    # url: /portfolio/
