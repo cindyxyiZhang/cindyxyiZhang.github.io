@@ -21,7 +21,7 @@ repository               : "cindyxyiZhang/cindyxyiZhang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "XYZ_cropped2.png"
+  avatar           : "profile.png"
   name             : "Xinyi (Cindy) Zhang"
   pronouns         : "she/her"  
   bio              : "Postdoc of Biostatistics at Johns Hopkins University"
