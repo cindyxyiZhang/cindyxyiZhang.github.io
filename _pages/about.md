@@ -21,10 +21,9 @@ Here is my [CV](https://cindyxyizhang.github.io/files/cv.pdf). -->
 ------
 Causal inference + Neuroimaging + Personalized medicine -->
 
-My research navigates the challenges of large-scale and complex data. Specifically,  
-* I develop statistical methods tailored to data characterized by high-dimensionality, massive volume, functional dependency, temporal dependency, and incompleteness, with a focus on achieving efficient estimation and robust statistical inference.
-* Building on this, my work aims to transform complex datasets into practical insights, with applications including causal discoveries from observational studies, brain imaging data analysis, and biomarker evaluation. 
-<!-- in response to specific stimuli or tasks. -->
+My research navigates the challenges of complex data. Specifically,  
+* I develop statistical methods for high-dimensional, large-scale, dependent, or incomplete data, focusing on efficient estimation and robust inference.
+* My work aims to transform real-world data into practical insights, with applications in causal discovery from observational studies, brain imaging analysis, and biomarker modeling for personalized health decisions.
 * Recently, I've also become interested in exploring to what extent deep learning methods, compared to traditional pipelines, can simplify the preprocessing of medical imaging data and effectively extract informative features for disease detection and monitoring. 
 
 
