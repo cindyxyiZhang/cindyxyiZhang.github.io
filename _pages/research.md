@@ -29,31 +29,31 @@ Publications and Preprints
 (* = equal contribution or alphabetical ordering) 
 
 - <a href="https://arxiv.org/pdf/2203.09330" style="text-decoration:none;">**Fighting noise with noise: Causal inference with many candidate instruments.**</a>   
-  **Xinyi Zhang**, Linbo Wang, Stanislav Volgushev and Dehan Kong.    
-  *Under Revision*, 2024.     [[Link]](https://arxiv.org/pdf/2203.09330)  
+  **Xinyi Zhang**, Linbo Wang, Stanislav Volgushev and Dehan Kong. (2024)  
+<!--  *Under Revision*, 2024.    [[Link]](https://arxiv.org/pdf/2203.09330)   -->
 - <a href="" style="text-decoration:none;">**Towards the theory of subdata selection for massive data logistic regression with missing responses.**</a>  
-  **Xinyi Zhang** and Stanislav Volgushev.     
-  *Submitted*, 2024.
+  **Xinyi Zhang** and Stanislav Volgushev. (2024)   
+<!--  *Submitted*, 2024.  -->
 - <a href="" style="text-decoration:none;">**A multiple fixed-sequence procedure for family-wise error rate control with applications to fMRI data.**</a>    
 <!-- [[arXiv]](https://cindyxyizhang.github.io/files/MFS_FWER.pdf)   -->
-  **Xinyi Zhang**, Brian S. Caffo, Martin A. Lindquist, and Zheyu Wang.  
-  *Submitted*, 2024.
+  **Xinyi Zhang**, Brian S. Caffo, Martin A. Lindquist, and Zheyu Wang. (2024)  
+<!--  *Submitted*, 2024. -->
 - <a href="" style="text-decoration:none;">**Are there really no returns to eucation?  A re-analysis using post-selection instrumental variable estimation when there are invalid instruments under a multi-group setting.**</a>     
-  Jiaying Gu$$^*$$, Harry Krashinsky$$^*$$, and **Xinyi Zhang$$^*$$**.      
-  *Submitted*, 2024  
+  Jiaying Gu$$^*$$, Harry Krashinsky$$^*$$, and **Xinyi Zhang$$^*$$**. (2024)     
+<!--  *Submitted*, 2024   -->
 - <a href="" style="text-decoration:none;">**MRI distance measures as a predictor of subsequent clinical status during the preclinical phase of Alzheimer's disease.**</a>      
 <!-- [[arXiv]](https://cindyxyizhang.github.io/files/ADdist.pdf)  -->
-  **Xinyi Zhang**, Brian S. Caffo, Anja Soldan, Corinne Pettigrew, Erus Guray, Christos Davatzikos, John C. Morris, Tammie L. S. Benzinger, Sterling C. Johnson, Colin L. Masters, Jurgen Fripp, Susan M. Resnick, Murat Bilgel, Walter A. Kukull, Marilyn S. Albert, and Zheyu Wang.  
-  *Submitted*, 2024       
+  **Xinyi Zhang**, Brian S. Caffo, Anja Soldan, Corinne Pettigrew, Erus Guray, Christos Davatzikos, John C. Morris, Tammie L. S. Benzinger, Sterling C. Johnson, Colin L. Masters, Jurgen Fripp, Susan M. Resnick, Murat Bilgel, Walter A. Kukull, Marilyn S. Albert, and Zheyu Wang. (2024) 
+<!--  *Submitted*, 2024   -->    
 - <a href="" style="text-decoration:none;">**Identifiability of finite mixture models without and with covariates: A nonparametric and semiparametric perspective.**</a>      
-  **Xinyi Zhang$$^*$$**, Zheyu Wang$$^*$$, and Xiao-Hua Zhou.  
-  *Submitted*, 2024   
+  **Xinyi Zhang$$^*$$**, Zheyu Wang$$^*$$, and Xiao-Hua Zhou. (2024)  
+<!--  *Submitted*, 2024    -->
 - <a href="" style="text-decoration:none;">**A non-linear latent variable approach for biomarker dynamics and inference on their temporal order: Application to Alzheimer's disease.**</a>     
-  Zheyu Wang, Yuxin Zhu, **Xinyi Zhang**, and Kexin Zhang.    
-  *Submitted*, 2024
+  Zheyu Wang, Yuxin Zhu, **Xinyi Zhang**, and Kexin Zhang. (2024)   
+<!--  *Submitted*, 2024  -->
 - <a href="" style="text-decoration:none;">**Joint modeling of multivariate longitudinal biomarkers and disease progression with differentiated covariate effects.**</a>      
-  Zhuojun Tang, Yuxin Zhu,  Kexin Zhang, **Xinyi Zhang**, and Zheyu Wang.    
-  *Submitted*, 2024
+  Zhuojun Tang, Yuxin Zhu,  Kexin Zhang, **Xinyi Zhang**, and Zheyu Wang. (2024)    
+<!--  *Submitted*, 2024  -->
 - <a href="https://www.tandfonline.com/doi/full/10.1080/10618600.2023.2250411" style="text-decoration:none;">**Supervised principal component regression for functional data with high dimensional predictors.**</a>   
   **Xinyi Zhang**, Qiang Sun, and Dehan Kong.    
   *Journal of Computational and Graphical Statistics (JCGS)*, 2023    [[Link]](https://www.tandfonline.com/doi/full/10.1080/10618600.2023.2250411)  
@@ -69,9 +69,9 @@ Publications and Preprints
 Working Papers 
 ------
 - A semiparametric method for latent variable modelling with covariate adjustment.  
-  **Xinyi Zhang**, Zheyu Wang, and Brian S. Caffo, 2024. 
+  **Xinyi Zhang**, Zheyu Wang, and Brian S. Caffo. (2024) 
 - Assessing the impact of deep learning methods on the cost and need of brain MRI preprocessing for predicting Alzheimer's disease.   
-  Shijia Zhang, Xiyu Ding, **Xinyi Zhang**, Brian S. Caffo, and Zheyu Wang, 2024.   
+  Shijia Zhang, Xiyu Ding, **Xinyi Zhang**, Brian S. Caffo, and Zheyu Wang. (2024)   
 
 <!-- 
 - Real-world treatment patterns and healthcare resource utilization among patients with solid tumors: Assessing disparities in transitions of care.     
