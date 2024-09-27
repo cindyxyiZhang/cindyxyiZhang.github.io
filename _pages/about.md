@@ -39,7 +39,7 @@ Education
 ------
 * Ph.D in Statistics, University of Toronto, 2018--2023.
 * M.S. in Statistics, University of California, Berkeley, 2017--2018.
-* B.Sc. in Mathematical Application in Economics and Finance, University of Toronto, 2014--2017.
+* B.Sc. in Mathematical Application in Economics and Finance, University of Toronto,<br>2014--2017.
 * B.Sc. in Statistics, University of Toronto, 2014--2017.
 
 
