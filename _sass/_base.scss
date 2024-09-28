@@ -11,6 +11,7 @@ body {
   margin: 0;
   padding: $masthead-height 0 0;
   padding-bottom: 9em;
+  margin-right: 10px;    
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
@@ -112,13 +113,18 @@ blockquote {
 /* links */
 
 a {
-  &:focus {
-    @extend %tab-focus;
+  text-decoration: none; /* Remove underline in the default state */
+
+  &:link,
+  &:visited {
+    text-decoration: none; /* Ensure no underline for visited or unvisited links */
   }
 
   &:hover,
-  &:active {
-    outline: 0;
+  &:active,
+  &:focus {
+    text-decoration: none; /* Ensure no underline on hover, active, or focus */
+    outline: 0; /* Ensure no outline on hover/active/focus if desired */
   }
 }
 
@@ -163,13 +169,28 @@ hr {
 /* lists */
 
 ul li,
-ol li {
-  margin-bottom: 0.5em;
+ol li {  
+  margin-bottom: 0.25em;
 }
 
 li ul,
 li ol {
-  margin-top: 0.5em;
+  margin-top: 0em;      
+}
+
+/* list and paragraph */
+p + ul, p + ol {
+    margin-top: -1em; /* Reduces space between a paragraph and a following list */
+}
+
+/* If a list directly follows any header */
+h1 + ul, h1 + ol,
+h2 + ul, h2 + ol,
+h3 + ul, h3 + ol,
+h4 + ul, h4 + ol,
+h5 + ul, h5 + ol,
+h6 + ul, h6 + ol {
+    margin-top: 0em;
 }
 
 /*
