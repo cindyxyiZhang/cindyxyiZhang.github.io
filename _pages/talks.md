@@ -17,7 +17,7 @@ redirect_from:
 * Invited talk at the International Chinese Statistical Association (ICSA) 2022 Applied Statistics Symposium, Gainesville, Florida, USA 
 * Invited talk at the Fifth ICSA-Canada Chapter Symposium, Banff, Alberta, Canada
 * Invited talk at the Statistical Society of Canada (SSC) Annual Meeting, Online
-* Center for Causal Inference Seminar, Online
+* Center for Causal Inference Seminar, University of Pennsylvania, Online
 * Student Reseach Day, Department of Statistical Sciences, University of Toronto
 * The Western North American Region (WNAR) Meeting, Online
 

@@ -11,18 +11,29 @@ redirect_from:
 Research Interests
 ------
 <!-- Add keywords for main and sub -->
+<p style="margin-bottom: 5px;">Statistical and computational challenges of complex data:</p>
+<div style="display: flex; align-items: flex-start; margin-top: 0;">
+  <div style="flex: 1;"> 
+   <ul>
+      <li><em>Statistical keywords</em>: Causal inference; High-dimensional statistics; Post-selection inference; Latent variable models</li>
+      <li><em>Applications</em>: Neuroimaging; Genetics; Health studies; Precision medicine; Biomarker evaluation</li>
+      <li><em>Others</em>: Alzheimer's disease; Application of deep learning methods to medical imaging</li>
+    </ul>
+  </div>
+  <div style="flex: 1;">
+    <img src="/images/research_flow.png" width="350" style="float: right;"/>
+  </div>
+</div>
 
+<!-- 
 * Statistical and computational challenges of complex data
-<!-- * Methodological development for handling data with complex structures 
-including high-dimensionality, large sample sizes, functional dependency, time-dependency, incompleteness, and latent variables -->
-<!-- * Statistical and computational challenges of complex data: high-dimensional data, longitudinal data, functional data, incomplete data -->
 * Causal inference with instrumental variables
 * High-dimensional statistics
 * Post-selection inference
 * Applications to neuroimaging, genetics, and health studies
 * Application of deep learning methods to medical imaging
 * Alzheimer's disease
-
+-->
 
 Publications and Preprints
 ------

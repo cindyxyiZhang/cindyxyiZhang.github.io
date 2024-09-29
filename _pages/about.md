@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postdoctoral researcher in biostatistics at Johns Hopkins University, where I'm fortunate to be mentored by Professors <a href="https://sites.google.com/view/bcaffo/home" style="text-decoration:none;">Brian Caffo</a> and <a href="https://profiles.hopkinsmedicine.org/provider/zheyu-wang/2777733" style="text-decoration:none;">Zheyu Wang</a>. I obtained my Ph.D. from the Department of Statistical Sciences at the University of Toronto in 2023, under the supervision of Professors <a href="https://sites.google.com/site/kongdehanstat/" style="text-decoration:none;">Dehan Kong</a>, <a href="https://sites.google.com/site/linbowangpku/home" style="text-decoration:none;">Linbo Wang</a>, <a href="https://utstat.toronto.edu/stanislav/" style="text-decoration:none;">Stanislav Volgushev</a>. 
+I'm a postdoctoral researcher in biostatistics at Johns Hopkins University, where I'm fortunate to be mentored by Professors <a href="https://sites.google.com/view/bcaffo/home" style="text-decoration:none;">Brian Caffo</a> and <a href="https://profiles.hopkinsmedicine.org/provider/zheyu-wang/2777733" style="text-decoration:none;">Zheyu Wang</a>. I obtained my Ph.D. from the Department of Statistical Sciences at the University of Toronto in 2023, under the supervision of Professors <a href="https://sites.google.com/site/kongdehanstat/" style="text-decoration:none;">Dehan Kong</a>, <a href="https://sites.google.com/site/linbowangpku/home" style="text-decoration:none;">Linbo Wang</a>, and <a href="https://utstat.toronto.edu/stanislav/" style="text-decoration:none;">Stanislav Volgushev</a>. 
 
 <!-- Here is my [CV](https://cindyxyizhang.github.io/files/cv.pdf). -->
 <!-- Prior to my doctoral studies, I obtained my Master's degree in Statistics from University of California, Berkeley, and I spent my undergraduate years at the University of Toronto where I received my Bachelor of Science degrees in Mathematical Application in Economics and Finance, and Statistics.  
@@ -20,11 +20,13 @@ Here is my [CV](https://cindyxyizhang.github.io/files/cv.pdf). -->
 <!-- Research interests
 ------
 Causal inference + Neuroimaging + Personalized medicine -->
+My research focuses on developing statistical and machine learning methods for large-scale and complex data. Driven by key areas including causal discovery from observational studies, neuroimaging analysis, and multi-view data analysis for personalized healthcare, I work on real-world data that features high-dimensionality, massive volume, complex correlation structures, unmeasured confounders, and incompleteness. Recently, I've also become interested in the application of deep learning methods to brain imaging for disease detection and monitoring. 
 
-My research navigates the challenges of complex data. Specifically,  
-* I develop statistical methods for high-dimensional, large-scale, dependent, or incomplete data, focusing on efficient estimation and robust inference.
-* My work aims to transform real-world data into practical insights, with applications in causal discovery from observational studies, brain imaging analysis, and biomarker modeling for personalized health decisions.
-* Recently, I've also become interested in exploring to what extent deep learning methods, compared to traditional pipelines, can simplify the preprocessing of medical imaging data and effectively extract informative features for disease detection and monitoring. 
+<!-- to what extent deep learning methods, compared to traditional pipelines, can simplify the preprocessing of medical imaging data. 
+and effectively extract informative features for disease detection and monitoring; (functional, temporal dependency) -->  
+
+A snapshot <img src="/images/snapshot.png" width="15" style="position: relative; top: -2px;"> of my methodological research:
+<img src="/images/research_snapshot.png" width="550" height="220" style="display: block; margin-left: auto; margin-right: auto;">  
 
 
 <!-- * I'm interested in developing statistical methods to overcome the curse of dimensionality. 
@@ -53,6 +55,7 @@ Awards
 * Dean's list Scholar, University of Toronto, 2015--2017 
 * In-course scholarship, New College, University of Toronto,   2017
 
+<!-- 
 Academic Service
 ------
 - **Reviewer**
@@ -65,7 +68,7 @@ Academic Service
   - "Recent Advances in Statistical Learning" session at the Fifth International Chinese Statistical Association (ICSA)-Canada Chapter Symposium, Banff, Alberta, Canada, 2022 
   - "Advance In Statistical Methods For Complex Data" session at ICSA Applied Statistics Symposium, Gainesville, Florida, USA, 2022
   - "Advances in Statistical Methods for Large and Complex Data" session at Statistical Society of Canada (SSC) Annual Meeting, Montreal, Québec, Canada, 2018 
-
+-->
 
 
 
