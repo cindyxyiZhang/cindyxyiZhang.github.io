@@ -29,7 +29,7 @@ Teaching
 Academic Service
 ------
 - **Reviewer**
-  - **Journal**: Journal of the American Statistical Association (JASA) Theory and Methods; JASA Applications and Case Studies; Computational Statistics and Data Analysis; American Journal of Epidemiology; Statistics in Biosciences; Canadian Journal of Statistics
+  - **Journal**: Journal of the American Statistical Association (JASA) Theory and Methods; JASA Applications and Case Studies; Scandinavian Journal of Statistics; Computational Statistics and Data Analysis; American Journal of Epidemiology; Statistics in Biosciences; Canadian Journal of Statistics
   - **Conference**: UAI 2021, 2022--37th, 38th Conference on Uncertainty in Artificial Intelligence; IEEE 2021 International Conference on Machine Learning and Applications (ICMLA 2021) 
   - **Student paper award**: Joint Statistical Meetings (JSM) 2024 Student Paper Award--Statistics in Imaging Section
 
