@@ -49,7 +49,7 @@ Publications and Preprints
 <!-- [[arXiv]](https://cindyxyizhang.github.io/files/MFS_FWER.pdf)   -->
   **Xinyi Zhang**, Brian S. Caffo, Martin A. Lindquist, and Zheyu Wang. (2024)  
 <!--  *Submitted*, 2024. -->
-- <a href="" style="text-decoration:none;">**Are there really no returns to eucation?  A re-analysis using post-selection instrumental variable estimation when there are invalid instruments under a multi-group setting.**</a>     
+- <a href="" style="text-decoration:none;">**Are there really no returns to education?  A re-analysis using post-selection instrumental variable estimation when there are invalid instruments under a multi-group setting.**</a>     
   Jiaying Gu$$^*$$, Harry Krashinsky$$^*$$, and **Xinyi Zhang$$^*$$**. (2024)     
 <!--  *Submitted*, 2024   -->
 - <a href="" style="text-decoration:none;">**MRI distance measures as a predictor of subsequent clinical status during the preclinical phase of Alzheimer's disease.**</a>      
